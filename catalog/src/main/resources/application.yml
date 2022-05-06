@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: catalog
+  data:
+    mongodb:
+      user:
+      password:
+      uri: mongodb://localhost:27017/catalog
+server:
